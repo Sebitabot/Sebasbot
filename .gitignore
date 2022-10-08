@@ -1,7 +1,8 @@
 Hola bienvenido# Built application files
-*.apk update
-*.aar
-*.apk 
+*termux-setup-storage
+*pkg update
+*.pkg upgrade
+*.gi
 *.aab
 
 # Files for the ART/Dalvik VM
